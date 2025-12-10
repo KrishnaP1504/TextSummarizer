@@ -1,0 +1,13 @@
+# Python env and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Model weights / checkpoints
+s2s/
+*.h5
+*.index
+*.data-00000-of-00001
+
+# Other large files
+*.ckpt
